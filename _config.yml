@@ -1,0 +1,25 @@
+title: Tina's awesome site
+email: tinagroshkova@gmail.com
+description: Hi there!
+baseurl: "" 
+url: "" 
+twitter_username: tinagroshkova
+github_username:  tinagroshkova
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
